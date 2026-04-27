@@ -1,19 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🌱 I’m currently learning<br>MERN Stack (MongoDB, Express.js, React, Node.js) and building full-stack projects<br><br>💻 I have experience with<br>Java and Python, along with libraries like NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and NetworkX<br><br>👯 I’m looking to collaborate on<br>Open-source projects and innovative web applications<br><br>🤝 I’m looking for help with<br>Advanced DSA and real-world project optimization<br><br>💬 Ask me about<br>Java, Python, web development, and aptitude preparation<br><br>⚡ Fun fact<br>I enjoy simplifying complex problems and constantly learning new technologies 🚀
 
-🌱 I’m currently learning  
-MERN Stack (MongoDB, Express.js, React, Node.js) and building full-stack projects  
 
-💻 I have experience with  
-Java and Python, along with libraries like NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and NetworkX  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjuuu_1116) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanjna Ruparelia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjnaruparelia111@gmail.com) 
 
-👯 I’m looking to collaborate on  
-Open-source projects and innovative web applications  
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sanjnar11&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Sanjnar11&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sanjnar11&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🤝 I’m looking for help with  
-Advanced DSA and real-world project optimization  
+---
+[![](https://komarev.com/ghpvc/?username=Sanjnar11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💬 Ask me about  
-Java, Python, web development, and aptitude preparation  
-
-⚡ Fun fact  
-I enjoy simplifying complex problems and constantly learning new technologies 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
