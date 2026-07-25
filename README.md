@@ -154,8 +154,6 @@
 | Node.js | 🟩🟩🟩⬜⬜ |
 | Express.js | 🟩🟩🟩⬜⬜ |
 | MongoDB | 🟩🟩🟩🟩⬜ |
-| Cybersecurity | 🟩🟩⬜⬜⬜ |
-
 </div>
 
 ---
@@ -181,10 +179,6 @@
 ---
 
 <div align="center">
-
-## 💬 Favorite Quote
-
-### *"First, solve the problem. Then, write the code."* — John Johnson
 
 ⭐ **Thanks for visiting my profile!**
 
