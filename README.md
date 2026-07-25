@@ -1,161 +1,193 @@
-# Hi 👋 I'm Sanjna Ruparelia
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:0F2027&height=220&section=header&text=Sanjna%20Ruparelia&fontSize=46&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C896,100:0F2027&text=Sanjna%20Ruparelia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20|%20MERN%20|%20Python&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+MERN+%7C+Python;Always+Learning+🚀)](https://git.io/typing-svg)
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Sanjnar11&label=Profile%20Views&color=00C896&style=for-the-badge"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Learner;Python+Enthusiast;Always+Learning+🚀)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Sanjnar11&label=PROFILE+VIEWS&color=00C896&style=for-the-badge"/>
 
 </div>
 
-## 💫 About Me
+---
 
-- 🎓 B.Tech Computer Science Student
-- 💻 Passionate Full Stack Developer
-- 🌱 Currently Learning React, Node.js & Cybersecurity
-- 🚀 Building Real-World Web Applications
-- 📍 Ahmedabad, India
-- ⚡ Open to Internship Opportunities
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 🌐 Connect
+# 👋 About Me
 
-- GitHub: https://github.com/Sanjnar11
-- Email: sanjnaruparelia111@gmail.com
+💻 Passionate Full Stack Developer
 
-## 💻 Tech Stack
+🎓 B.Tech Computer Science Student
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
+🌱 Currently learning **React, Node.js & Cybersecurity**
+
+🚀 Building modern web applications
+
+📍 Ahmedabad, Gujarat, India
+
+⚡ Love solving programming problems
+
+💼 Actively seeking Internship Opportunities in Software Development, Python Development, and MERN Full Stack Development
+
+<br clear="right"/>
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
 </p>
 
-## 📊 GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=Sanjnar11&show_icons=true&theme=tokyonight)
+# 📊 GitHub Statistics
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjnar11&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjnar11&layout=compact&theme=tokyonight)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjnar11&show_icons=true&theme=tokyonight"/>
 
-## 🏆 Trophies
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjnar11&theme=tokyonight"/>
 
-![](https://github-profile-trophy.vercel.app/?username=Sanjnar11&theme=algolia)
+</p>
 
-## 📈 Activity Graph
+<p align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sanjnar11&theme=tokyo-night)
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjnar11&layout=compact&theme=tokyonight"/>
 
-## 🐍 Snake
+</p>
 
-![Snake animation](https://github.com/Sanjnar11/Sanjnar11/blob/output/github-contribution-grid-snake-dark.svg)
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sanjnar11&theme=algolia&row=1&column=6"/>
+
+</p>
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjnar11&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/Sanjnar11/Sanjnar11/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
 # ⭐ Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### ✈️ Travel Booking System
-Responsive travel booking website with authentication, booking history, invoice generation and modern UI.
+| 🚀 Project | 💡 Description | 🛠️ Tech |
+|:-----------|:---------------|:--------|
+| ✈️ **Travel Booking System** | Responsive travel booking website with authentication, booking history & invoice generation | HTML, CSS, JavaScript |
+| 🏦 **Bank Management System** | Banking application built using OOP concepts | Java |
+| 🕵️ **Crime Management System** | Desktop application to manage crime records | Java |
+| 🎮 **Arcade Hub** | Collection of interactive games | Python |
 
-**Tech Stack:** HTML • CSS • JavaScript
-
-</td>
-
-<td width="50%">
-
-### 🏦 Bank Management System
-Java-based banking application using Object-Oriented Programming concepts.
-
-**Tech Stack:** Java
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🕵️ Crime Management System
-Desktop application to manage crime records efficiently.
-
-**Tech Stack:** Java
-
-</td>
-
-<td width="50%">
-
-### 🎮 Arcade Hub
-Python project containing multiple games and interactive features.
-
-**Tech Stack:** Python
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 📚 Currently Learning
+# 🎯 LeetCode
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express"/>
+<img src="https://leetcard.jacoblin.cool/sanjnar11?theme=dark&font=Poppins&ext=contest"/>
 
 </p>
 
-- 🚀 MERN Stack Development
-- 🔐 Cybersecurity & TryHackMe
-- ⚙️ Backend Development
-- ☁️ Git & GitHub
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+| 📚 Learning | 🔥 Progress |
+|-------------|------------|
+| React.js | 🟩🟩🟩🟩⬜ |
+| Node.js | 🟩🟩🟩⬜⬜ |
+| Express.js | 🟩🟩🟩⬜⬜ |
+| MongoDB | 🟩🟩🟩🟩⬜ |
+| Cybersecurity | 🟩🟩⬜⬜⬜ |
+
+</div>
 
 ---
 
-# 📫 Contact Me
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Sanjnar11">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </p>
-
----
-
-## 💡 Quote
-
-> *"Code. Learn. Build. Repeat."* 🚀
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💬 Favorite Quote
 
-If you like my work, don't forget to ⭐ my repositories.
+### *"First, solve the problem. Then, write the code."* — John Johnson
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:0F2027&height=120&section=footer"/>
-
-
-## 🎯 LeetCode
-sanjnar11
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/sanjnar11?theme=dark&font=Poppins)
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:0F2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C896,100:0F2027"/>
