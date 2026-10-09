@@ -2,16 +2,8 @@
 <!-- ===================== GAMING HEADER ===================== -->
 
 <div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Sanjnar11/Sanjnar11/main/mario-bg.png" alt="Purple Pixel Gaming World" />
-
-# 💜 Sanjna Ruparelia
-
-Software Developer | Python | Java | Full Stack
-
+<img width="100%" src="https://raw.githubusercontent.com/Sanjnar11/Sanjnar11/main/mario-bg.png" alt="Purple Mario-style gaming background" />
 </div>
-
----
 
 <!-- ===================== PLAYER INTRO ===================== -->
 
