@@ -98,9 +98,7 @@ class Sanjna:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:5A189A,100:9D4EDD&height=100&section=footer" />
 
-<div align="center">
 
 **Thanks for visiting my Pixel World!**
 
