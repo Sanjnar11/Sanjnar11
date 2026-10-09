@@ -7,7 +7,17 @@
 
 <!-- ===================== PLAYER INTRO ===================== -->
 
-<h2 align="center">🎮 PLAYER 1 — SANJNA</h2>
+<div align="center">
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=SANJNA+RUPARELIA" alt="Sanjna Ruparelia" />
+</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/PLAYER-1-8B5CF6?style=for-the-badge&labelColor=240046" alt="Player 1" />
+</p>
+
+</div>
 
 <div align="center">
 
