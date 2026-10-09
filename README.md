@@ -3,9 +3,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,50:24005A,100:6D28D9&text=Sanjna%20Ruparelia&fontColor=E9D5FF&fontSize=48&fontAlignY=40&desc=Software%20Developer%20%7C%20Python%20%7C%20Java&descSize=15&descAlignY=62" alt="Purple Gaming Header" />
+<img width="100%" src="https://raw.githubusercontent.com/Sanjnar11/Sanjnar11/main/mario-bg.png" alt="Purple Pixel Gaming World" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+Pixel+World!;Eat+Sleep+Code+Repeat;Building+projects+one+level+at+a+time!" alt="Typing Animation" />
+# 💜 Sanjna Ruparelia
+
+Software Developer | Python | Java | Full Stack
 
 </div>
 
