@@ -29,6 +29,8 @@
 
 <!-- ===================== PLAYER PROFILE ===================== -->
 
+<a id="world-1"></a>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/PLAYER_CLASS-SOFTWARE_DEVELOPER-7C3AED?style=for-the-badge&labelColor=0D0221" alt="Software Developer"/>
@@ -53,6 +55,62 @@ class Sanjna:
 
 ---
 
+<!-- ===================== MARIO WORLD MAP ===================== -->
+
+<h2 align="center">🗺️ WORLD MAP — CHOOSE YOUR LEVEL</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SANJNA'S_PIXEL_WORLD-PLAYER_01-8B5CF6?style=for-the-badge&labelColor=160B2E" alt="Sanjna's Pixel World"/>
+
+<br/><br/>
+
+<a href="#world-1">
+  <img src="https://img.shields.io/badge/WORLD_1-PLAYER_PROFILE-7C3AED?style=for-the-badge&labelColor=160B2E" alt="World 1: Player Profile"/>
+</a>
+
+<br/><br/>
+
+⬇️　🟪 ━━━━━━━ ⭐ ━━━━━━━ 🟪　⬇️
+
+<br/><br/>
+
+<a href="#world-2">
+  <img src="https://img.shields.io/badge/WORLD_2-POWER_UPS-A855F7?style=for-the-badge&labelColor=160B2E" alt="World 2: Tech Inventory"/>
+</a>
+
+<br/><br/>
+
+🟪 ━━━━━━━ 🍄 ━━━━━━━ 🟪
+
+<br/><br/>
+
+<a href="#world-3">
+  <img src="https://img.shields.io/badge/WORLD_3-QUEST_BOARD-C084FC?style=for-the-badge&labelColor=160B2E" alt="World 3: Projects"/>
+</a>
+
+<br/><br/>
+
+🟪 ━━━━━━━ 🪙 ━━━━━━━ 🟪
+
+<br/><br/>
+
+<a href="#world-4">
+  <img src="https://img.shields.io/badge/WORLD_4-ACHIEVEMENTS-7C3AED?style=for-the-badge&labelColor=160B2E" alt="World 4: Achievements"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-4_WORLDS_TO_EXPLORE-8B5CF6?style=for-the-badge&labelColor=160B2E" alt="Four worlds to explore"/>
+
+<br/><br/>
+
+<code>★ PICK A WORLD • START YOUR QUEST • LEVEL UP ★</code>
+
+</div>
+
+---
+
 <!-- ===================== SNAKE ANIMATION ===================== -->
 
 <h2 align="center">🐍 SNAKE QUEST</h2>
@@ -67,7 +125,8 @@ class Sanjna:
 
 <!-- ===================== TECH STACK ===================== -->
 
-<h2 align="center">⚡ POWER-UPS — TECH INVENTORY</h2>
+<a id="world-2"></a>
+<h2 align="center">⚡ WORLD 2 — POWER-UPS: TECH INVENTORY</h2>
 
 <div align="center">
 
@@ -167,7 +226,8 @@ class Sanjna:
 
 <!-- ===================== QUEST BOARD ===================== -->
 
-<h2 align="center">🏆 WORLD 1 — QUEST BOARD</h2>
+<a id="world-3"></a>
+<h2 align="center">🏆 WORLD 3 — QUEST BOARD</h2>
 
 <div align="center">
 
@@ -190,7 +250,7 @@ class Sanjna:
 <br/><br/>
 
 <a href="https://github.com/Sanjnar11?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_WORLDS-VISIT_REPOSITORIES-A855F7?style=for-the-badge&labelColor=160B2E" alt="Explore all repositories"/>
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_WORLDS-VISIT_REPOSITORIES-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
 </a>
 
 </div>
@@ -199,7 +259,8 @@ class Sanjna:
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
 
-<h2 align="center">🎖️ ACHIEVEMENTS UNLOCKED</h2>
+<a id="world-4"></a>
+<h2 align="center">🎖️ WORLD 4 — ACHIEVEMENTS UNLOCKED</h2>
 
 <div align="center">
 
