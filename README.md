@@ -119,8 +119,7 @@ class Sanjna:
 
 <br/>
 
-<img src="https://img.shields.io/badge/SPECIAL_ABILITY-BACKEND_DEVELOPMENT-C084FC?style=for-the-badge&labelColor=240046" />
-
+<img src="https://img.shields.io/badge/SPECIAL_ABILITY-SOFTWARE_DEVELOPER-C084FC?style=for-the-badge&labelColor=240046" />
 </div>
 
 ---
@@ -134,9 +133,9 @@ class Sanjna:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjnar11&repo=OrderManagementApi&theme=midnight-purple&hide_border=true" alt="Order Management API" />
 </a>
 
-<a href="https://github.com/Sanjnar11/GlobeTrotter">
+<!-- <a href="https://github.com/Sanjnar11/GlobeTrotter">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjnar11&repo=GlobeTrotter&theme=midnight-purple&hide_border=true" alt="GlobeTrotter" />
-</a>
+</a> -->
 
 </div>
 
