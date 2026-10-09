@@ -114,6 +114,8 @@ class Sanjna:
 
 
 
-**Thanks for visiting my Pixel World!**
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+pixel+world!" alt="Thank you for visiting my pixel world!" />
+</h1>
 
 </div>
