@@ -47,18 +47,83 @@ class Sanjna:
 
 ---
 
+
 <!-- ===================== TECH STACK ===================== -->
 
-<h2 align="center">⚡ POWER-UPS — TECH STACK</h2>
+<h2 align="center">⚡ POWER-UPS — TECH INVENTORY</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,fastapi,postgres,mysql,mongodb,git,github,vscode&theme=dark" alt="Technology Stack" />
+<img src="https://img.shields.io/badge/PLAYER_INVENTORY-LEVEL_UP-7C3AED?style=for-the-badge&labelColor=0D0221" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 👾 CORE WEAPONS
+
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-C084FC?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-A855F7?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white" />
+
+</td>
+<td align="center" width="50%">
+
+### 🛠️ BUILDING TOOLS
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,fastapi&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-7C3AED?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-A855F7?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-C084FC?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🗄️ DATABASE VAULT
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-A855F7?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-C084FC?style=flat-square&logo=mongodb&logoColor=white" />
+
+</td>
+<td align="center">
+
+### 🎮 DEVELOPER GEAR
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-7C3AED?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-A855F7?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-C084FC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SPECIAL_ABILITY-BACKEND_DEVELOPMENT-C084FC?style=for-the-badge&labelColor=240046" />
 
 </div>
 
 ---
-
 <!-- ===================== PROJECTS ===================== -->
 
 <h2 align="center">🏆 QUESTS COMPLETED — PROJECTS</h2>
