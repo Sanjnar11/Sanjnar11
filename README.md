@@ -19,6 +19,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sanjnar11&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/★_INSERT_COIN_TO_START-8B5CF6?style=for-the-badge&labelColor=160B2E" alt="Insert coin to start"/>
+
 </div>
 
 ---
@@ -28,6 +32,14 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/PLAYER_CLASS-SOFTWARE_DEVELOPER-7C3AED?style=for-the-badge&labelColor=0D0221" alt="Software Developer"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Animated pixel-style character"/>
+
+<br/>
+
+<code>★ NEW WORLD DISCOVERED ★</code>
 
 </div>
 
@@ -153,27 +165,57 @@ class Sanjna:
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ===================== QUEST BOARD ===================== -->
 
-<h2 align="center">🏆 QUESTS COMPLETED — PROJECTS</h2>
+<h2 align="center">🏆 WORLD 1 — QUEST BOARD</h2>
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/SELECT_YOUR_QUEST-8B5CF6?style=for-the-badge&labelColor=160B2E" alt="Select your quest"/>
+
+<br/><br/>
+
 <a href="https://github.com/Sanjnar11/OrderManagementApi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjnar11&repo=OrderManagementApi&theme=midnight-purple&hide_border=true" alt="Open Order Management API repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjnar11&repo=OrderManagementApi&theme=midnight-purple&hide_border=true" alt="Order Management API quest card"/>
 </a>
 
-<!-- Enable this card when you want to feature GlobeTrotter.
 <a href="https://github.com/Sanjnar11/GlobeTrotter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjnar11&repo=GlobeTrotter&theme=midnight-purple&hide_border=true" alt="Open GlobeTrotter repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjnar11&repo=GlobeTrotter&theme=midnight-purple&hide_border=true" alt="GlobeTrotter quest card"/>
 </a>
--->
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/QUEST_STATUS-KEEP_BUILDING-7C3AED?style=for-the-badge&labelColor=160B2E" alt="Keep building"/>
 
 <br/><br/>
 
 <a href="https://github.com/Sanjnar11?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_QUESTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_WORLDS-VISIT_REPOSITORIES-A855F7?style=for-the-badge&labelColor=160B2E" alt="Explore all repositories"/>
 </a>
+
+</div>
+
+---
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
+<h2 align="center">🎖️ ACHIEVEMENTS UNLOCKED</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ACHIEVEMENT-LEVEL_UP-7C3AED?style=for-the-badge&labelColor=160B2E" alt="Level up achievement"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT-PLAYER_SKILL-8B5CF6?style=for-the-badge&labelColor=160B2E" alt="Software development"/>
+
+<img src="https://img.shields.io/badge/PYTHON_EXPLORER-POWER_UP-A855F7?style=for-the-badge&labelColor=160B2E" alt="Python explorer"/>
+
+<img src="https://img.shields.io/badge/DATABASE_ADVENTURER-UNLOCKED-C084FC?style=for-the-badge&labelColor=160B2E" alt="Database adventurer"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CURRENT_MISSION-LEARN_BUILD_REPEAT-7C3AED?style=for-the-badge&labelColor=160B2E" alt="Current mission"/>
 
 </div>
 
@@ -219,6 +261,8 @@ class Sanjna:
 
 ---
 
+<!-- ===================== GAME OVER / FOOTER ===================== -->
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=THANK+YOU+FOR+VISITING;MY+PIXEL+WORLD;GG+WP+PLAYER+ONE" alt="Thank you for visiting my pixel world"/>
@@ -226,5 +270,9 @@ class Sanjna:
 <br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEVELING_UP-7C3AED?style=for-the-badge&labelColor=0D0221" alt="Always leveling up"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/★-GAME_ON-8B5CF6?style=for-the-badge&labelColor=160B2E" alt="Game on"/>
 
 </div>
