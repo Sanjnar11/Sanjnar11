@@ -37,11 +37,11 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Animated pixel-style character"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Animated character"/>
 
 <br/>
 
-<code>★ NEW WORLD DISCOVERED ★</code>
+<code>★ PLAYER PROFILE INITIALIZED ★</code>
 
 </div>
 
@@ -55,57 +55,81 @@ class Sanjna:
 
 ---
 
-<!-- ===================== MARIO WORLD MAP ===================== -->
+<!-- ===================== DEVELOPER MISSION CONTROL ===================== -->
 
-<h2 align="center">🗺️ WORLD MAP — CHOOSE YOUR LEVEL</h2>
+<h2 align="center">⌘ DEVELOPER MISSION CONTROL</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SANJNA'S_PIXEL_WORLD-PLAYER_01-8B5CF6?style=for-the-badge&labelColor=160B2E" alt="Sanjna's Pixel World"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-8B5CF6?style=for-the-badge&labelColor=160B2E" alt="System Online"/>
+<img src="https://img.shields.io/badge/PLAYER-SANJNA-7C3AED?style=for-the-badge&labelColor=160B2E" alt="Player Sanjna"/>
+<img src="https://img.shields.io/badge/MODE-CYBERPUNK-A855F7?style=for-the-badge&labelColor=160B2E" alt="Cyberpunk Mode"/>
 
 <br/><br/>
+
+<code>INITIALIZING DEVELOPER CONSOLE...</code>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
 
 <a href="#world-1">
-  <img src="https://img.shields.io/badge/WORLD_1-PLAYER_PROFILE-7C3AED?style=for-the-badge&labelColor=160B2E" alt="World 1: Player Profile"/>
+<img src="https://img.shields.io/badge/01-PLAYER_PROFILE-7C3AED?style=for-the-badge&labelColor=160B2E" alt="Player Profile"/>
 </a>
 
 <br/><br/>
 
-⬇️　🟪 ━━━━━━━ ⭐ ━━━━━━━ 🟪　⬇️
+<sub>IDENTITY • INTRODUCTION • CURRENT ROLE</sub>
 
-<br/><br/>
+</td>
+<td align="center" width="50%">
 
 <a href="#world-2">
-  <img src="https://img.shields.io/badge/WORLD_2-POWER_UPS-A855F7?style=for-the-badge&labelColor=160B2E" alt="World 2: Tech Inventory"/>
+<img src="https://img.shields.io/badge/02-TECH_INVENTORY-A855F7?style=for-the-badge&labelColor=160B2E" alt="Tech Inventory"/>
 </a>
 
 <br/><br/>
 
-🟪 ━━━━━━━ 🍄 ━━━━━━━ 🟪
+<sub>LANGUAGES • TOOLS • DATABASES</sub>
 
-<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
 
 <a href="#world-3">
-  <img src="https://img.shields.io/badge/WORLD_3-QUEST_BOARD-C084FC?style=for-the-badge&labelColor=160B2E" alt="World 3: Projects"/>
+<img src="https://img.shields.io/badge/03-PROJECTS-8B5CF6?style=for-the-badge&labelColor=160B2E" alt="Projects"/>
 </a>
 
 <br/><br/>
 
-🟪 ━━━━━━━ 🪙 ━━━━━━━ 🟪
+<sub>BUILDS • APIs • DEVELOPMENT</sub>
 
-<br/><br/>
+</td>
+<td align="center" width="50%">
 
 <a href="#world-4">
-  <img src="https://img.shields.io/badge/WORLD_4-ACHIEVEMENTS-7C3AED?style=for-the-badge&labelColor=160B2E" alt="World 4: Achievements"/>
+<img src="https://img.shields.io/badge/04-ACHIEVEMENTS-C084FC?style=for-the-badge&labelColor=160B2E" alt="Achievements"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-4_WORLDS_TO_EXPLORE-8B5CF6?style=for-the-badge&labelColor=160B2E" alt="Four worlds to explore"/>
+<sub>SKILLS • MILESTONES • PROGRESS</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ALL_SYSTEMS-GO-7C3AED?style=for-the-badge&labelColor=160B2E" alt="All systems go"/>
 
 <br/><br/>
 
-<code>★ PICK A WORLD • START YOUR QUEST • LEVEL UP ★</code>
+<code>SELECT MODULE / ACCESS SECTION / CONTINUE BUILDING</code>
 
 </div>
 
@@ -126,7 +150,7 @@ class Sanjna:
 <!-- ===================== TECH STACK ===================== -->
 
 <a id="world-2"></a>
-<h2 align="center">⚡ WORLD 2 — POWER-UPS: TECH INVENTORY</h2>
+<h2 align="center">⚡ TECH INVENTORY</h2>
 
 <div align="center">
 
@@ -227,7 +251,7 @@ class Sanjna:
 <!-- ===================== QUEST BOARD ===================== -->
 
 <a id="world-3"></a>
-<h2 align="center">🏆 WORLD 3 — QUEST BOARD</h2>
+<h2 align="center">🏆 PROJECTS — QUEST BOARD</h2>
 
 <div align="center">
 
@@ -236,11 +260,11 @@ class Sanjna:
 <br/><br/>
 
 <a href="https://github.com/Sanjnar11/OrderManagementApi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjnar11&repo=OrderManagementApi&theme=midnight-purple&hide_border=true" alt="Order Management API quest card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjnar11&repo=OrderManagementApi&theme=midnight-purple&hide_border=true" alt="Order Management API project"/>
 </a>
 
 <a href="https://github.com/Sanjnar11/GlobeTrotter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjnar11&repo=GlobeTrotter&theme=midnight-purple&hide_border=true" alt="GlobeTrotter quest card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjnar11&repo=GlobeTrotter&theme=midnight-purple&hide_border=true" alt="GlobeTrotter project"/>
 </a>
 
 <br/><br/>
@@ -250,7 +274,7 @@ class Sanjna:
 <br/><br/>
 
 <a href="https://github.com/Sanjnar11?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_WORLDS-VISIT_REPOSITORIES-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-VIEW_ALL_PROJECTS-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
 </div>
@@ -260,7 +284,7 @@ class Sanjna:
 <!-- ===================== ACHIEVEMENTS ===================== -->
 
 <a id="world-4"></a>
-<h2 align="center">🎖️ WORLD 4 — ACHIEVEMENTS UNLOCKED</h2>
+<h2 align="center">🎖️ ACHIEVEMENTS UNLOCKED</h2>
 
 <div align="center">
 
