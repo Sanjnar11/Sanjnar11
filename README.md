@@ -89,7 +89,11 @@ class Sanjna:
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjnar11&theme=tokyo-night" alt="GitHub Contribution Activity Graph" />
+<img
+  width="90%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjnar11&bg_color=0D0221&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&title_color=C084FC&hide_border=true"
+  alt="GitHub Contribution Activity Graph"
+/>
 </div>
 
 ---
